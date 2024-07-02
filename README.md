@@ -1,6 +1,6 @@
-# Discord Bot Project
+# Zoo Keeper Bot
 
-Welcome to the Discord Bot Project! This bot is designed to enhance server management and user experience with a variety of features, including moderation tools, translation capabilities, crypto tracking, and more.
+Welcome to the Zoo Keeper Bot Project! This bot is designed to enhance server management and user experience with a variety of features, including moderation tools, translation capabilities, crypto tracking, and more.
 
 ## Roadmap
 
