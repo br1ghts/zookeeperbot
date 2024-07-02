@@ -2,7 +2,7 @@
 name: A issue template
 about: A issue template
 title: ''
-labels: ''
+labels: enhancement
 assignees: br1ghts
 
 ---
